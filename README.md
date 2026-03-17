@@ -1,4 +1,4 @@
-# Study-of-list# Study-of-list
+# Study-of-list
 Name : Ansh Srivastava
 
 
